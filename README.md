@@ -9,3 +9,4 @@ Depending on the RFID chip you are reading/writing to, you may have a different 
 
 Only tested on windows via import of dll for now but the SDK also comes with precompiled .so files for linux, and i'm guessing the functions are similar.
 
+I've added these to the linux subfolder, as well as the source code for the precompiled objects
